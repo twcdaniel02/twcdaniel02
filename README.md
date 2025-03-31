@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**twcdaniel02/twcdaniel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Daniel Teng Wei Chung
+💻 Software Engineer | AI & ML Enthusiast | Fresh Graduate
 
-Here are some ideas to get you started:
+🌟 Passionate about AI, Machine Learning, and Software Development. Excited to create impactful solutions in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠 About Me
+🔭 Currently working on:
+
+Final Year Project: Interactive ECG Narrative - AI Approach for Upscaling ECG Manipulation
+- ECG Classification using WGAN, CNN, RNN, SVM, KNN, and Random Forest
+
+📚 Learning:
+Advanced Machine Learning & Deep Learning techniques
+Java, JavaScript, and Backend Development
+Cloud Computing & Cybersecurity
+
+💼 Looking for Opportunities:
+Software Engineering | AI & ML Roles | Test Engineering | Consulting (Cloud & Cyber)
 -->
