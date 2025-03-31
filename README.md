@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 🚀 Daniel Teng Wei Chung
 💻 Software Engineer | AI & ML Enthusiast | Fresh Graduate
 
@@ -19,4 +19,4 @@ Cloud Computing & Cybersecurity
 
 💼 Looking for Opportunities:
 Software Engineering | AI & ML Roles | Test Engineering | Consulting (Cloud & Cyber)
--->
+
